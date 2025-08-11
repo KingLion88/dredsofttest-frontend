@@ -11,3 +11,6 @@ npm install
 # Start the server
 
 npm start
+
+# What to change
+Update Product.jsx file exists in src/component path.
