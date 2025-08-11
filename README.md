@@ -13,4 +13,4 @@ npm install
 npm start
 
 # What to change
-Update Product.jsx file exists in src/component path.
+Update Product.jsx file exists in src/components path.
