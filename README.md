@@ -14,3 +14,6 @@ npm start
 
 # What to change
 Update Product.jsx file exists in src/components path.
+
+# Screenshot
+![Screenshot](./Screenshot.png)
